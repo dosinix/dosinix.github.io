@@ -1,5 +1,5 @@
 ---
-layout: posts
+# layout: posts
 title:  "Welcome to Jekyll!"
 date:   2024-11-20 23:21:08 -0500
 author_profile: false
