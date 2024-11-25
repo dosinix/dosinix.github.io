@@ -1,0 +1,6 @@
+- name: Home
+  permalink: /
+- name: Blog
+  permalink: /blog/
+- name: About
+  permalink: /about/

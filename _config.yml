@@ -54,3 +54,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include:
+  - _pages
+
+defaults:
+  # pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: default
+      permalink: /:basename/
